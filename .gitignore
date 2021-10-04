@@ -1,3 +1,12 @@
+# Mine
+
+data/
+models/
+logs/
+lightning_logs/
+.env
+.envrc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
